@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading-style1 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #171f46;
+  text-align: center;
+  line-height: 2.5;
+}
+.heading-style2 {
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: 600;
+  color: #2b237c;
+  text-align: center;
+  line-height: 1.5;
+  line-height: 2.5;
+}
+.chrono-container {
+  width: 70%;
+}
